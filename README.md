@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, My name is Prashant and this is my first repository on github.
